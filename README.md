@@ -20,7 +20,7 @@ $ cd D3-Mobile-Suits
 ```
 ## index.html
 
-'''html
+```javascript
 <html>
 <head>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -186,5 +186,5 @@ $ cd D3-Mobile-Suits
 </body>
 </html>
 
-'''
+```
 
